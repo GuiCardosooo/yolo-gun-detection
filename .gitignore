@@ -1,0 +1,6 @@
+.vscode
+cfg/__pycache__
+lib/__pycache__
+BK4/
+data/
+db/
